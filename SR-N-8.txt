@@ -1,9 +1,10 @@
 Wpisujcie poniżej imię, nazwisk i nr albumu.
-Hubert Stachowski, 221106
+Hubert Stachowski 221106
 Sebastian Frysztak, 221111
 Kamil Juchniewicz 221109
 Maciej Puchała 221117
 Krystian Szpurek 221105
+Marta Panek 204496
 Mateusz Gołąb 220795
 Patryk Święcicki 221255
 Michał Wasiukeiwcz 218068
