@@ -1,2 +1,3 @@
 Wpisujcie poniżej imię, nazwisk i nr albumu.
 Jakub Rychlik 212550
+Mateusz Krawczyk 212525
