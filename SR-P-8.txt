@@ -2,4 +2,5 @@ Wpisujcie poniżej imię, nazwisk i nr albumu.
 Patryk Palmąka 212511
 Aneta Lubańska 212576
 Jacek Fortuniak 221134
+Dominik Dumin 221131
 Piotr Wyciechowski 204004
