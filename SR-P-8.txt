@@ -7,3 +7,4 @@ Piotr Wyciechowski 204004
 Jakub Kaszuba 221097
 Piotr Rabiej 200231
 Michał Stuleblak 212566
+Maciej Strzyżewski 204025
