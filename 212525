@@ -1,3 +1,6 @@
 Mateusz Krawczyk 212525 matixoni22
+https://github.com/matixoni22/Multi_Thread-ClientServer
+
+
 Usługa serwerowa wielowątkowy tcp. Pod linuxa z symulacją sygnałów, oraz autoryzacją w języku C#.
 Bibloteki Mono pod linux.
