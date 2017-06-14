@@ -3,7 +3,7 @@ Jakub Rychlik 212550
 Mateusz Krawczyk 212525
 Paweł Otto 212533
 Jakub Witkowski 212455
-Łukasz Struś 204027
+Łukasz Struś 204027 https://github.com/piotrwyciechowski/proj
 Jagoda Wierzbicka 212577
 Szymon Wołodkowicz 208525
 Michal Kosik 212449
