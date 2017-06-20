@@ -1,6 +1,6 @@
 Wpisujcie poniżej imię, nazwisk i nr albumu.
 Patryk Palmąka 212511
-Aneta Lubańska 212576
+Aneta Lubańska 212576 https://github.com/anetalubanska/Projekt-PO
 Jacek Fortuniak 221134
 Dominik Dumin 221131 https://github.com/dominikdumin/Senstation
 Piotr Wyciechowski 204004 https://github.com/piotrwyciechowski/proj
