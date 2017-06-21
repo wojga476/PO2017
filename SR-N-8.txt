@@ -4,10 +4,10 @@ Sebastian Frysztak, 221111
 Kamil Juchniewicz 221109 https://github.com/golabmateusz/projekt_PO_2017
 Maciej Puchała 221117 https://github.com/Gookuruto/Projekt_PO_2017/
 Krystian Szpurek 221105 https://github.com/CrazyNoob001/ProjektPO
-Marta Panek 204496
+Marta Panek 204496 https://github.com/Majda2006/PROJEKT_PO_PODZIAL
 Mateusz Gołąb 220795 https://github.com/golabmateusz/projekt_PO_2017
 Michał Wasiukeiwcz 218068 https://github.com/Gookuruto/Projekt_PO_2017/
-Wojciech Majda 212540
+Wojciech Majda 212540 https://github.com/Majda2006/PROJEKT_PO_PODZIAL
 Si Ngo Quang 223189
 Wojciech Gall 204042
 Patryk Święcicki 221255 po raz trzeci https://github.com/Gookuruto/Projekt_PO_2017/
