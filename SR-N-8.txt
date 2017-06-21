@@ -1,11 +1,11 @@
 Wpisujcie poniżej imię, nazwisk i nr albumu.
 Hubert Stachowski 221106
 Sebastian Frysztak, 221111
-Kamil Juchniewicz 221109
+Kamil Juchniewicz 221109 https://github.com/golabmateusz/projekt_PO_2017
 Maciej Puchała 221117
 Krystian Szpurek 221105
 Marta Panek 204496
-Mateusz Gołąb 220795
+Mateusz Gołąb 220795 https://github.com/golabmateusz/projekt_PO_2017
 Michał Wasiukeiwcz 218068
 Wojciech Majda 212540
 Si Ngo Quang 223189
