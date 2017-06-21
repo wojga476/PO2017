@@ -1,9 +1,9 @@
 Wpisujcie poniżej imię, nazwisk i nr albumu.
 Damian Jedrysiak 212549 https://github.com/jedrysiak-damian/Ogrzewanie
-Bartłomiej Więcek 218008
+Bartłomiej Więcek 218008 https://github.com/Patryk11178/Projekt-PO
 Janusz Muzyka 214903
 Patrycja Papież 221124
-Patryk Kopczyński 221112
+Patryk Kopczyński 221112 https://github.com/Patryk11178/Projekt-PO
 Anita Poźniak 221259
 Justyna Drab 221128
 Żaneta Radka 221147
