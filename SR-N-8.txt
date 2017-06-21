@@ -3,7 +3,7 @@ Hubert Stachowski 221106  https://github.com/staszkon/tower_defense
 Sebastian Frysztak, 221111 
 Kamil Juchniewicz 221109 https://github.com/golabmateusz/projekt_PO_2017
 Maciej Puchała 221117 https://github.com/Gookuruto/Projekt_PO_2017/
-Krystian Szpurek 221105
+Krystian Szpurek 221105 https://github.com/CrazyNoob001/ProjektPO
 Marta Panek 204496
 Mateusz Gołąb 220795 https://github.com/golabmateusz/projekt_PO_2017
 Michał Wasiukeiwcz 218068 https://github.com/Gookuruto/Projekt_PO_2017/
