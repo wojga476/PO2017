@@ -5,7 +5,7 @@ Janusz Muzyka 214903
 Patrycja Papież 221124
 Patryk Kopczyński 221112 https://github.com/Patryk11178/Projekt-PO
 Anita Poźniak 221259
-Justyna Drab 221128
-Żaneta Radka 221147
+Justyna Drab 221128 https://github.com/justynad/system_alarmowy_projekt
+Żaneta Radka 221147 https://github.com/justynad/system_alarmowy_projekt
 Miłosz Kraska 202185
 Łukasz Nenkin 221114
